@@ -11,6 +11,18 @@ Uma das alterações foi a exclusão da entidade "Gerente". Agora, todos os gere
 
 Outra modificação importante foi na funcionalidade de matrícula em disciplinas. Anteriormente, alunos que reprovavam em uma matéria não podiam se matricular novamente nela para uma nova tentativa. Agora, essa restrição foi removida, permitindo que alunos possam se reinscrever em disciplinas nas quais não obtiveram sucesso anteriormente. Isso enfatiza nosso compromisso em apoiar o progresso contínuo e o aprendizado dos alunos, dando-lhes mais oportunidades para superar desafios acadêmicos e alcançar seus objetivos educacionais.
 
+#### Novas Perguntas:
+
+1.	 Como podemos saber quais livros o aluno pegou emprestado?
+
+2.	 Como podemos visualizar o estoque da biblioteca (livros disponíveis para empréstimo e para compra)?
+
+3.	 Como podemos visualizar as notas de um aluno em determinada disciplina?
+
+4.	 Como podemos saber a data que o empréstimo foi feito e a data em que o livro foi devolvido, para que os prazos sejam respeitados?
+
+5.	Como podemos ver quais livros são mais caros e quais são os mais baratos?
+
 ### Visualização:
 
 ![DER](https://github.com/rickzerahh/ProjetoEduca-BD1v2/assets/91620783/01e19b19-72ed-40b4-819e-78938ef519a5)
